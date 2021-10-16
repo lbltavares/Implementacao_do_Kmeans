@@ -1,12 +1,12 @@
 
 
-# Planejamento De Capacidade E Avaliação De Sistemas Computacionais
+## Implementação do Kmeans em Java
 
-## Implementação do Kmeans em Java (ou assembly)
+Trabalho da disciplina Planejamento De Capacidade E Avaliação De Sistemas Computacionais
 
-### **Professor**: Claudio Correa
+**Professor**: Claudio Correa
 
-### **Alunos**: 
+**Alunos**: 
 - Cristiano Coelho
 - Lucas Laborne
 - Gabriel Haddad
