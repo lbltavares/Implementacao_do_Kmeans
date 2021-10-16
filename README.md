@@ -28,3 +28,5 @@ K-Means é um algoritmo de agrupamento que utiliza aprendizado não-supervisiona
   - calcule a distância entre cada elemento da carga de trabalho e o centróide de cada cluster;
   - inclua o elemento no cluster cujo centróide estiver mais próximo;
   - recalcule o centróide de cada cluster modificado nessa iteração.
+
+![image](https://user-images.githubusercontent.com/34322384/137566551-18cec418-a1d6-4eec-a150-24ebadde40a2.png)
