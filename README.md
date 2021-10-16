@@ -9,7 +9,6 @@ Trabalho da disciplina Planejamento De Capacidade E Avaliação De Sistemas Comp
 **Alunos**: 
 - Cristiano Coelho
 - Lucas Laborne
-- Gabriel Haddad
 - Caique Ribeiro
 
 
